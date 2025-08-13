@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.cache/
+.dist/
+.sass-cache/
+.env
+
+# Large design sources (nicht ins Repo)
+*.psd
+assets/img/Soical Post.psd
